@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/public/jquery" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/public/jquery.cookie" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/public/lesshat" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/public/translit" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../userdata/temp/email">
+      <sourceFolder url="file://$MODULE_DIR$/../../userdata/temp/email" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/public/jquery" />
+          <root url="file://$MODULE_DIR$/vendor/public/jquery.cookie" />
+          <root url="file://$MODULE_DIR$/vendor/public/lesshat" />
+          <root url="file://$MODULE_DIR$/vendor/public/translit" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/public/jquery" />
+          <root url="file://$MODULE_DIR$/vendor/public/jquery.cookie" />
+          <root url="file://$MODULE_DIR$/vendor/public/lesshat" />
+          <root url="file://$MODULE_DIR$/vendor/public/translit" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

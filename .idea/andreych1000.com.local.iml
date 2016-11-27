@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/public/flexslider" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/public/jquery-validation" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/public/jquery.inputmask" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/public/magnific-popup" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/public/video.js" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../userdata/temp/email">
+      <sourceFolder url="file://$MODULE_DIR$/../../userdata/temp/email" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP Runtime" type="php">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </CLASSES>
+        <SOURCES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

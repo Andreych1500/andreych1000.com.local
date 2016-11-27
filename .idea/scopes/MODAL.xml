@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="MODAL" pattern="file[andreych1000.com.local]:modules//*" />
+</component>

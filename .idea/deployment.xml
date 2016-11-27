@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="School.php" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="School.php">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/logs" />
+            <excludedPath local="true" path="$PROJECT_DIR$/uploaded" />
+            <excludedPath local="true" path="$PROJECT_DIR$/work" />
+            <excludedPath local="true" path="$PROJECT_DIR$/config.php" />
+            <excludedPath local="true" path="$PROJECT_DIR$/composer.lock" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.htaccess" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.gitignore" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.bowerrc" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bower.json" />
+            <excludedPath local="true" path="$PROJECT_DIR$/composer.json" />
+            <excludedPath local="true" path="$PROJECT_DIR$/composer.lock" />
+            <excludedPath local="true" path="$PROJECT_DIR$/favicon.ico" />
+            <excludedPath path="/work" />
+            <excludedPath path="/favicon.ico" />
+            <excludedPath path="/vendor" />
+            <excludedPath path="/uploaded" />
+            <excludedPath path="/logs" />
+            <excludedPath local="true" path="$PROJECT_DIR$/libs/class_Mail.php" />
+            <excludedPath path="/libs/class_Mail.php" />
+            <excludedPath local="true" path="$PROJECT_DIR$/skins/default/img/no-optimization" />
+            <excludedPath local="true" path="$PROJECT_DIR$/skins/default/img/work" />
+            <excludedPath local="true" path="$PROJECT_DIR$/composer.phar" />
+            <excludedPath local="true" path="$PROJECT_DIR$/libs/PHPExcel" />
+            <excludedPath path="/libs/PHPExcel" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

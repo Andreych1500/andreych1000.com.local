@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="JS" pattern="file[andreych1000.com.local]:skins/default/js//*||file[andreych1000.com.local]:skins/admin/js//*||file[andreych1000.com.local]:skins/admin/js/*||file[andreych1000.com.local]:skins/default/js/*" />
+</component>
